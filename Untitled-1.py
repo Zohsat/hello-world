@@ -1,7 +1,12 @@
 
 
-a=input("ınput 1:   ")
+a = int(input("ınput 1:   "))
 
-b=input("input 2:   ")
+b = int(input("input 2:   "))
+c=a*b
+print(c)
 
-print(a*b)
+if c>10:
+    print("10dan büyük")
+else:
+    print("10dan küçük")
