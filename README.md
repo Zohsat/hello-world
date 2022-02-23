@@ -3,3 +3,8 @@ test
 helo helo test test 1234
 
 VS code üzerinden eklenen değişiklik
+
+ikinci değişiklik
+
+yeni değişiklikler
+
