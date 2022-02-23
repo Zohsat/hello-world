@@ -1,5 +1,7 @@
 
 
 a=input("ınput 1:   ")
-55
-print(a)
+
+b=input("input 2:   ")
+
+print(a*b)
